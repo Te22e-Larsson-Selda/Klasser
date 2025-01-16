@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Book book1 = new Book("Bok 1", 25);
+        Book book2 = new Book("Bok 2", 35);
+        Book book3 = new Book("Bok 3", 45);
+
+
     }
 }
